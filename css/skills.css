@@ -1,0 +1,39 @@
+.skills-section{
+    margin-top: 130px;
+    margin-left: 40px;
+}
+
+
+.skills-heading{
+    font-weight: bolder;
+    color:  rgb(204, 214, 246);
+    font-size: 30px;
+    margin-bottom: 35px;
+}
+
+
+.skills-section-paragraph{
+    margin-top: 5px;
+    width: 85%;
+    color: rgb(204, 214, 246);
+    max-width: 1000px;
+    line-height: 1.6;
+    opacity: 0.7;
+    
+    
+    
+}
+
+.skills-list{
+    list-style: disc;
+    padding-left: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.skills-list li{
+    margin-bottom: 10px;
+    color: rgb(204, 214, 246);
+    font-size: 18px;
+    line-height: 1.6;
+}
