@@ -42,7 +42,6 @@ The main purpose of this project is to practice front-end development and build 
 
 ## 📬 Contact
 GitHub: https://github.com/b-nikhil-16  
-Email: your-email@example.com  
 
 ---
 
