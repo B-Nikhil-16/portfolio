@@ -24,16 +24,6 @@ It is part of my front-end development learning path.
 - HTML5
 - CSS3
 
----
-
-## 📁 Project Structure
-portfolio/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── images/
-│   └── (all project images)
 
 ---
 
